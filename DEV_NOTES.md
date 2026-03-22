@@ -6,3 +6,6 @@ Personal development log — notes, findings, and ongoing work.
 - Updated CI cache strategy
 - Bumped patch version
 - Cross-checked behaviour against spec
+
+## 2026-03-23
+- Tidied up project structure
